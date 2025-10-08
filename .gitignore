@@ -10,3 +10,5 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 *backups/
+fp-info-cache
+\#*
