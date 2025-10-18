@@ -1,7 +1,6 @@
 *.000
-*.bak
+*.*bak
 *.bck
-*.kicad_pcb-bak
 *.sch-bak
 *~
 *.lck
