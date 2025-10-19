@@ -3076,6 +3076,16 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 60.96) (xy 194.31 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73bdbfd4-111b-4f97-b046-e9f4f0559ba8")
+	)
+	(wire
+		(pts
 			(xy 130.81 121.92) (xy 134.62 121.92)
 		)
 		(stroke
@@ -3563,6 +3573,16 @@
 			(type default)
 		)
 		(uuid "cf4bee21-795f-449a-a963-1138f330941f")
+	)
+	(wire
+		(pts
+			(xy 191.77 63.5) (xy 194.31 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf8b5fb9-8927-4bb1-8b6c-876d11239ba4")
 	)
 	(wire
 		(pts
@@ -4362,6 +4382,50 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "usb_p"
+		(shape input)
+		(at 191.77 63.5 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d4e31b93-86b6-4ff7-bbde-4f64e2bbdb6a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 183.3421 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "usb_n"
+		(shape input)
+		(at 191.77 60.96 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e6c9523d-691a-44a8-bd36-d7dbb9bb1b2b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 183.3421 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -5215,7 +5279,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "through_hole:obd_main_pins"
 			(at 238.76 80.01 0)
 			(effects
 				(font
