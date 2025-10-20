@@ -4982,6 +4982,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C22369275"
+			(at 120.65 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "43f737a7-4231-4d89-b5c2-fd49695ddaa7")
 		)
@@ -5188,6 +5197,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C185387"
+			(at 58.42 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fdedb24e-7b24-4e9a-933b-b7e12637c2dc")
 		)
@@ -5318,6 +5336,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 267.97 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C102690"
 			(at 267.97 50.8 0)
 			(effects
 				(font
@@ -5468,6 +5495,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C22369184"
+			(at 50.8 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "338dbc99-35cf-4104-9d3a-b6eb516c7ccc")
 		)
@@ -5529,6 +5565,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 184.15 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C102690"
+			(at 184.15 71.12 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6792,6 +6837,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C11660"
+			(at 120.65 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f3a7b447-e339-4ac4-9e03-41fa4644abec")
 		)
@@ -6853,6 +6907,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 184.15 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C102690"
+			(at 184.15 55.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7473,6 +7536,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C102690"
+			(at 256.54 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "12c5cb71-ed22-4791-b51f-02097af448ea")
 		)
@@ -7599,6 +7671,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 64.77 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C22369184"
 			(at 64.77 157.48 0)
 			(effects
 				(font
