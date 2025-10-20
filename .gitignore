@@ -1,5 +1,7 @@
 !*.kicad_pro
 !*.kicad_pcb
+!*.kicad_prl
+!*.kicad_sch
 *~
 *.*
 *-save.kicad_pcb
