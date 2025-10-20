@@ -1,12 +1,7 @@
-*.000
-*.*bak
-*.bck
-*.sch-bak
+!*.kicad_pro
+!*.kicad_pcb
 *~
-*.lck
-_autosave-*
-*.tmp
-*-save.pro
+*.*
 *-save.kicad_pcb
 *backups/
 fp-info-cache
