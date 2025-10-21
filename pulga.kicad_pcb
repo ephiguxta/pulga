@@ -728,6 +728,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C231329"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6af21033-fdea-4cfa-838c-3a6c35e8f2bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/622e909f-cb79-4a59-9088-3419ccedc07b")
 		(sheetname "/")
 		(sheetfile "pulga.kicad_sch")
@@ -1776,6 +1789,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C231329"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4067b90f-9697-4dc5-95fd-0cb8655f79c5")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
