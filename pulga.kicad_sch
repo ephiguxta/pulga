@@ -6480,6 +6480,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C544741"
+			(at 78.74 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "af52ede4-b3e6-4288-b603-aece9d51923b")
 		)
