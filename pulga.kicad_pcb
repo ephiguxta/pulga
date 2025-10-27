@@ -121,8 +121,8 @@
 			(uuid "a4a32ce1-a03e-4fee-8a8d-c48c9e22c6a8")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -322,13 +322,13 @@
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
 		(property "Reference" "U1"
-			(at 0 -3.4 0)
+			(at 0 3.215 0)
 			(layer "F.SilkS")
 			(uuid "47e30ea8-e71a-4483-905b-80142697f45a")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -684,8 +684,8 @@
 			(uuid "989c14b2-7ac4-4467-97d9-4a4b98f3e620")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -943,13 +943,13 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C5"
-			(at 3 0 0)
+			(at 2.505 0.005 0)
 			(layer "F.SilkS")
 			(uuid "bfef0ff5-100d-4330-8c0f-d570838e7378")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -1160,8 +1160,8 @@
 			(uuid "0f3d1fd0-c500-42f7-89f0-21e6416d818f")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -1372,8 +1372,8 @@
 			(uuid "4536418e-fd9f-44fe-81f8-ced10f8eab5b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -1636,8 +1636,8 @@
 			(uuid "a10340b3-99c6-4477-81aa-797cc952489c")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -1901,8 +1901,8 @@
 			(uuid "bb7c7e94-f317-4568-96c0-0fc7be09b081")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -2815,8 +2815,8 @@
 			(uuid "fe8e9a49-781b-4d1c-8628-16120845bb20")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -3081,8 +3081,8 @@
 			(uuid "3d6177f4-d815-40ba-889f-07ce1b7ff31a")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -3274,8 +3274,8 @@
 			(uuid "12c918b6-8ad3-4943-a9aa-5a8de1765f7b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -3467,8 +3467,8 @@
 			(uuid "8b2916b5-aee9-4f24-8154-0cd2d2e3b6c0")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -3678,8 +3678,8 @@
 			(uuid "c5991695-55b8-4afa-8113-4bf0db48d483")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.1)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -3813,8 +3813,8 @@
 			(uuid "243d6d65-7b66-47ff-8d73-01771ec30fc0")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -4025,8 +4025,8 @@
 			(uuid "78418acd-b773-4dad-a836-a8f38df42d14")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -4231,8 +4231,8 @@
 			(uuid "92122aca-d28b-45ef-a218-5cfca383b183")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -4443,8 +4443,8 @@
 			(uuid "1a5f56ed-f509-4b4b-bdf9-e65c780dfc46")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -4644,13 +4644,13 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
-			(at -0.25 1.25 90)
+			(at -1.645 -0.025 90)
 			(layer "F.SilkS")
 			(uuid "3f2c93a2-5cd8-49db-90c2-ceee873cf096")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -4856,13 +4856,13 @@
 		(descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C4"
-			(at 0 -1.05 90)
+			(at 1.375 -0.035 90)
 			(layer "F.SilkS")
 			(uuid "0006b4bd-2d0f-41df-87e2-3bffffba2b19")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -5067,8 +5067,8 @@
 			(uuid "049c22ea-0ae1-430f-ae45-566a33b4b98c")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -5424,8 +5424,8 @@
 			(uuid "c1343a81-0837-4787-bd85-96720221ff5d")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.1)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -5554,13 +5554,13 @@
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C9"
-			(at 3.4 -0.15 90)
+			(at 0.01 -1.62 90)
 			(layer "F.SilkS")
 			(uuid "9bfbb4c9-6119-4867-8965-392a7b5c1461")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -5757,8 +5757,8 @@
 			(uuid "d1ae81dc-79f7-424f-80f1-fb06800d3ced")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.1)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -5892,8 +5892,8 @@
 			(uuid "d4e953fd-f08f-44c8-b0e1-0dc591c69405")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -6178,8 +6178,8 @@
 			(uuid "4a55bee6-3dcc-41f4-a414-5d283aa786ce")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -6379,13 +6379,13 @@
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R6"
-			(at -0.05 -1.1 0)
+			(at -1.38 -0.0125 0)
 			(layer "F.SilkS")
 			(uuid "86fc8560-ff2f-4afd-9254-d9924670e579")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -6590,8 +6590,8 @@
 			(uuid "46cb8090-a76a-4440-826e-6b3190535561")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -6886,8 +6886,8 @@
 			(uuid "7064c396-e133-45bc-b64c-4fc29b0c9b45")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -7079,8 +7079,8 @@
 			(uuid "63bc0bdd-7292-4f92-9e4b-37a66a7f3b6c")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
@@ -7290,8 +7290,8 @@
 			(uuid "7366b71d-46b2-4b88-8507-64d7d6c2a99b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.1)
+					(size 0.6 0.6)
+					(thickness 0.6)
 				)
 			)
 		)
